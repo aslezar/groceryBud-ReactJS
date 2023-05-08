@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/groceryBud-ReactJS/static/css/main.f37b22e1.css",
+    "main.js": "/groceryBud-ReactJS/static/js/main.d08a2db6.js",
+    "index.html": "/groceryBud-ReactJS/index.html",
+    "main.f37b22e1.css.map": "/groceryBud-ReactJS/static/css/main.f37b22e1.css.map",
+    "main.d08a2db6.js.map": "/groceryBud-ReactJS/static/js/main.d08a2db6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f37b22e1.css",
+    "static/js/main.d08a2db6.js"
+  ]
+}
